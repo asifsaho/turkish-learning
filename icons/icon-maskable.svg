@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <defs>
+    <radialGradient id="glow" cx="30%" cy="18%" r="75%">
+      <stop offset="0" stop-color="#2f7a61"/>
+      <stop offset="1" stop-color="#1b4a3b"/>
+    </radialGradient>
+    <filter id="shadow" x="-30%" y="-30%" width="160%" height="160%">
+      <feDropShadow dx="0" dy="10" stdDeviation="12" flood-color="#0c2219" flood-opacity=".35"/>
+    </filter>
+    <clipPath id="card"><rect x="146" y="117" width="220" height="290" rx="30"/></clipPath>
+  </defs>
+  <rect width="512" height="512" fill="url(#glow)"/>
+  <g transform="rotate(-13 256 262)">
+    <rect x="146" y="117" width="220" height="290" rx="30" fill="#d9ef9a" filter="url(#shadow)"/>
+  </g>
+  <g transform="rotate(6 256 262)">
+    <rect x="146" y="117" width="220" height="290" rx="30" fill="#fffefa" filter="url(#shadow)"/>
+    <circle cx="350" cy="128" r="62" fill="#e9f1df" clip-path="url(#card)"/>
+    <text x="256" y="300" text-anchor="middle" font-family="Georgia, 'Times New Roman', serif" font-weight="700" font-size="200" fill="#225b49">ğ</text>
+    <rect x="206" y="366" width="100" height="9" rx="5" fill="#e5e5dc"/>
+  </g>
+  <circle cx="362" cy="384" r="42" fill="#e30a17" stroke="#fffefa" stroke-width="7"/>
+  <circle cx="356" cy="384" r="21" fill="#fff"/>
+  <circle cx="362" cy="384" r="17" fill="#e30a17"/>
+  <polygon points="392.00,384.00 384.56,386.59 384.40,394.46 379.64,388.18 372.10,390.47 376.60,384.00 372.10,377.53 379.64,379.82 384.40,373.54 384.56,381.41" fill="#fff"/>
+</svg>
