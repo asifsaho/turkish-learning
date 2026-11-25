@@ -1,0 +1,1144 @@
+{
+  "categories": [
+    {
+      "id": "basics",
+      "label": "Basics & daily life"
+    },
+    {
+      "id": "communication",
+      "label": "Communication & thinking"
+    },
+    {
+      "id": "home",
+      "label": "Home & actions"
+    },
+    {
+      "id": "movement",
+      "label": "Movement & plans"
+    },
+    {
+      "id": "feelings",
+      "label": "Feelings & other"
+    }
+  ],
+  "forms": [
+    {
+      "id": "present",
+      "label": "Present"
+    },
+    {
+      "id": "past",
+      "label": "Past"
+    },
+    {
+      "id": "want",
+      "label": "I want to…"
+    },
+    {
+      "id": "future",
+      "label": "Future"
+    }
+  ],
+  "verbs": [
+    {
+      "turkish": "gitmek",
+      "english": "Go",
+      "category": "basics",
+      "forms": {
+        "present": "Gidiyorum",
+        "past": "Gittim",
+        "want": "Gitmek istiyorum",
+        "future": "Gideceğim"
+      }
+    },
+    {
+      "turkish": "gelmek",
+      "english": "Come",
+      "category": "basics",
+      "forms": {
+        "present": "Geliyorum",
+        "past": "Geldim",
+        "want": "Gelmek istiyorum",
+        "future": "Geleceğim"
+      }
+    },
+    {
+      "turkish": "yapmak",
+      "english": "Do / make",
+      "category": "basics",
+      "forms": {
+        "present": "Yapıyorum",
+        "past": "Yaptım",
+        "want": "Yapmak istiyorum",
+        "future": "Yapacağım"
+      }
+    },
+    {
+      "turkish": "olmak",
+      "english": "Be / become",
+      "category": "basics",
+      "forms": {
+        "present": "Oluyorum",
+        "past": "Oldum",
+        "want": "Olmak istiyorum",
+        "future": "Olacağım"
+      }
+    },
+    {
+      "turkish": "sahip olmak",
+      "english": "Have",
+      "category": "basics",
+      "forms": {
+        "present": "Sahibim",
+        "past": "Sahip oldum",
+        "want": "Sahip olmak istiyorum",
+        "future": "Sahip olacağım"
+      }
+    },
+    {
+      "turkish": "yemek",
+      "english": "Eat",
+      "category": "basics",
+      "forms": {
+        "present": "Yiyorum",
+        "past": "Yedim",
+        "want": "Yemek istiyorum",
+        "future": "Yiyeceğim"
+      }
+    },
+    {
+      "turkish": "içmek",
+      "english": "Drink",
+      "category": "basics",
+      "forms": {
+        "present": "İçiyorum",
+        "past": "İçtim",
+        "want": "İçmek istiyorum",
+        "future": "İçeceğim"
+      }
+    },
+    {
+      "turkish": "uyumak",
+      "english": "Sleep",
+      "category": "basics",
+      "forms": {
+        "present": "Uyuyorum",
+        "past": "Uyudum",
+        "want": "Uyumak istiyorum",
+        "future": "Uyuyacağım"
+      }
+    },
+    {
+      "turkish": "uyanmak",
+      "english": "Wake up",
+      "category": "basics",
+      "forms": {
+        "present": "Uyanıyorum",
+        "past": "Uyandım",
+        "want": "Uyanmak istiyorum",
+        "future": "Uyanacağım"
+      }
+    },
+    {
+      "turkish": "kalkmak",
+      "english": "Get up",
+      "category": "basics",
+      "forms": {
+        "present": "Kalkıyorum",
+        "past": "Kalktım",
+        "want": "Kalkmak istiyorum",
+        "future": "Kalkacağım"
+      }
+    },
+    {
+      "turkish": "oturmak",
+      "english": "Sit",
+      "category": "basics",
+      "forms": {
+        "present": "Oturuyorum",
+        "past": "Oturdum",
+        "want": "Oturmak istiyorum",
+        "future": "Oturacağım"
+      }
+    },
+    {
+      "turkish": "ayakta durmak",
+      "english": "Stand",
+      "category": "basics",
+      "forms": {
+        "present": "Ayakta duruyorum",
+        "past": "Ayakta durdum",
+        "want": "Ayakta durmak istiyorum",
+        "future": "Ayakta duracağım"
+      }
+    },
+    {
+      "turkish": "yürümek",
+      "english": "Walk",
+      "category": "movement",
+      "forms": {
+        "present": "Yürüyorum",
+        "past": "Yürüdüm",
+        "want": "Yürümek istiyorum",
+        "future": "Yürüyeceğim"
+      }
+    },
+    {
+      "turkish": "koşmak",
+      "english": "Run",
+      "category": "movement",
+      "forms": {
+        "present": "Koşuyorum",
+        "past": "Koştum",
+        "want": "Koşmak istiyorum",
+        "future": "Koşacağım"
+      }
+    },
+    {
+      "turkish": "araba kullanmak",
+      "english": "Drive",
+      "category": "movement",
+      "forms": {
+        "present": "Araba kullanıyorum",
+        "past": "Araba kullandım",
+        "want": "Araba kullanmak istiyorum",
+        "future": "Araba kullanacağım"
+      }
+    },
+    {
+      "turkish": "binmek",
+      "english": "Ride / get on",
+      "category": "movement",
+      "forms": {
+        "present": "Biniyorum",
+        "past": "Bindim",
+        "want": "Binmek istiyorum",
+        "future": "Bineceğim"
+      }
+    },
+    {
+      "turkish": "almak",
+      "english": "Take / get",
+      "category": "basics",
+      "forms": {
+        "present": "Alıyorum",
+        "past": "Aldım",
+        "want": "Almak istiyorum",
+        "future": "Alacağım"
+      }
+    },
+    {
+      "turkish": "vermek",
+      "english": "Give",
+      "category": "basics",
+      "forms": {
+        "present": "Veriyorum",
+        "past": "Verdim",
+        "want": "Vermek istiyorum",
+        "future": "Vereceğim"
+      }
+    },
+    {
+      "turkish": "getirmek",
+      "english": "Bring",
+      "category": "movement",
+      "forms": {
+        "present": "Getiriyorum",
+        "past": "Getirdim",
+        "want": "Getirmek istiyorum",
+        "future": "Getireceğim"
+      }
+    },
+    {
+      "turkish": "götürmek",
+      "english": "Take away",
+      "category": "movement",
+      "forms": {
+        "present": "Götürüyorum",
+        "past": "Götürdüm",
+        "want": "Götürmek istiyorum",
+        "future": "Götüreceğim"
+      }
+    },
+    {
+      "turkish": "satın almak",
+      "english": "Buy",
+      "category": "basics",
+      "forms": {
+        "present": "Satın alıyorum",
+        "past": "Satın aldım",
+        "want": "Satın almak istiyorum",
+        "future": "Satın alacağım"
+      }
+    },
+    {
+      "turkish": "satmak",
+      "english": "Sell",
+      "category": "basics",
+      "forms": {
+        "present": "Satıyorum",
+        "past": "Sattım",
+        "want": "Satmak istiyorum",
+        "future": "Satacağım"
+      }
+    },
+    {
+      "turkish": "ödemek",
+      "english": "Pay",
+      "category": "basics",
+      "forms": {
+        "present": "Ödüyorum",
+        "past": "Ödedim",
+        "want": "Ödemek istiyorum",
+        "future": "Ödeyeceğim"
+      }
+    },
+    {
+      "turkish": "tutmak",
+      "english": "Cost",
+      "category": "basics",
+      "forms": {
+        "present": "Tutuyor",
+        "past": "Tuttu",
+        "want": "Tutmak istiyor",
+        "future": "Tutacak"
+      }
+    },
+    {
+      "turkish": "açmak",
+      "english": "Open",
+      "category": "home",
+      "forms": {
+        "present": "Açıyorum",
+        "past": "Açtım",
+        "want": "Açmak istiyorum",
+        "future": "Açacağım"
+      }
+    },
+    {
+      "turkish": "kapatmak",
+      "english": "Close",
+      "category": "home",
+      "forms": {
+        "present": "Kapatıyorum",
+        "past": "Kapattım",
+        "want": "Kapatmak istiyorum",
+        "future": "Kapatacağım"
+      }
+    },
+    {
+      "turkish": "beklemek",
+      "english": "Wait",
+      "category": "basics",
+      "forms": {
+        "present": "Bekliyorum",
+        "past": "Bekledim",
+        "want": "Beklemek istiyorum",
+        "future": "Bekleyeceğim"
+      }
+    },
+    {
+      "turkish": "yardım etmek",
+      "english": "Help",
+      "category": "basics",
+      "forms": {
+        "present": "Yardım ediyorum",
+        "past": "Yardım ettim",
+        "want": "Yardım etmek istiyorum",
+        "future": "Yardım edeceğim"
+      }
+    },
+    {
+      "turkish": "ihtiyaç duymak",
+      "english": "Need",
+      "category": "basics",
+      "forms": {
+        "present": "İhtiyaç duyuyorum",
+        "past": "İhtiyaç duydum",
+        "want": "İhtiyaç duymak istiyorum",
+        "future": "İhtiyaç duyacağım"
+      }
+    },
+    {
+      "turkish": "istemek",
+      "english": "Want",
+      "category": "basics",
+      "forms": {
+        "present": "İstiyorum",
+        "past": "İstedim",
+        "want": "İstemek istiyorum",
+        "future": "İsteyeceğim"
+      }
+    },
+    {
+      "turkish": "sevmek",
+      "english": "Like / love",
+      "category": "feelings",
+      "forms": {
+        "present": "Seviyorum",
+        "past": "Sevdim",
+        "want": "Sevmek istiyorum",
+        "future": "Seveceğim"
+      }
+    },
+    {
+      "turkish": "âşık olmak",
+      "english": "Love romantically",
+      "category": "feelings",
+      "forms": {
+        "present": "Âşık oluyorum",
+        "past": "Âşık oldum",
+        "want": "Âşık olmak istiyorum",
+        "future": "Âşık olacağım"
+      }
+    },
+    {
+      "turkish": "düşünmek",
+      "english": "Think",
+      "category": "communication",
+      "forms": {
+        "present": "Düşünüyorum",
+        "past": "Düşündüm",
+        "want": "Düşünmek istiyorum",
+        "future": "Düşüneceğim"
+      }
+    },
+    {
+      "turkish": "bilmek",
+      "english": "Know",
+      "category": "communication",
+      "forms": {
+        "present": "Biliyorum",
+        "past": "Bildim",
+        "want": "Bilmek istiyorum",
+        "future": "Bileceğim"
+      }
+    },
+    {
+      "turkish": "anlamak",
+      "english": "Understand",
+      "category": "communication",
+      "forms": {
+        "present": "Anlıyorum",
+        "past": "Anladım",
+        "want": "Anlamak istiyorum",
+        "future": "Anlayacağım"
+      }
+    },
+    {
+      "turkish": "öğrenmek",
+      "english": "Learn",
+      "category": "communication",
+      "forms": {
+        "present": "Öğreniyorum",
+        "past": "Öğrendim",
+        "want": "Öğrenmek istiyorum",
+        "future": "Öğreneceğim"
+      }
+    },
+    {
+      "turkish": "öğretmek",
+      "english": "Teach",
+      "category": "communication",
+      "forms": {
+        "present": "Öğretiyorum",
+        "past": "Öğrettim",
+        "want": "Öğretmek istiyorum",
+        "future": "Öğreteceğim"
+      }
+    },
+    {
+      "turkish": "okumak",
+      "english": "Read",
+      "category": "communication",
+      "forms": {
+        "present": "Okuyorum",
+        "past": "Okudum",
+        "want": "Okumak istiyorum",
+        "future": "Okuyacağım"
+      }
+    },
+    {
+      "turkish": "yazmak",
+      "english": "Write",
+      "category": "communication",
+      "forms": {
+        "present": "Yazıyorum",
+        "past": "Yazdım",
+        "want": "Yazmak istiyorum",
+        "future": "Yazacağım"
+      }
+    },
+    {
+      "turkish": "konuşmak",
+      "english": "Speak",
+      "category": "communication",
+      "forms": {
+        "present": "Konuşuyorum",
+        "past": "Konuştum",
+        "want": "Konuşmak istiyorum",
+        "future": "Konuşacağım"
+      }
+    },
+    {
+      "turkish": "söylemek",
+      "english": "Say",
+      "category": "communication",
+      "forms": {
+        "present": "Söylüyorum",
+        "past": "Söyledim",
+        "want": "Söylemek istiyorum",
+        "future": "Söyleyeceğim"
+      }
+    },
+    {
+      "turkish": "anlatmak",
+      "english": "Tell / explain a story",
+      "category": "communication",
+      "forms": {
+        "present": "Anlatıyorum",
+        "past": "Anlattım",
+        "want": "Anlatmak istiyorum",
+        "future": "Anlatacağım"
+      }
+    },
+    {
+      "turkish": "sormak",
+      "english": "Ask",
+      "category": "communication",
+      "forms": {
+        "present": "Soruyorum",
+        "past": "Sordum",
+        "want": "Sormak istiyorum",
+        "future": "Soracağım"
+      }
+    },
+    {
+      "turkish": "cevap vermek",
+      "english": "Answer",
+      "category": "communication",
+      "forms": {
+        "present": "Cevap veriyorum",
+        "past": "Cevap verdim",
+        "want": "Cevap vermek istiyorum",
+        "future": "Cevap vereceğim"
+      }
+    },
+    {
+      "turkish": "aramak",
+      "english": "Call / phone",
+      "category": "communication",
+      "forms": {
+        "present": "Arıyorum",
+        "past": "Aradım",
+        "want": "Aramak istiyorum",
+        "future": "Arayacağım"
+      }
+    },
+    {
+      "turkish": "buluşmak",
+      "english": "Meet up",
+      "category": "movement",
+      "forms": {
+        "present": "Buluşuyorum",
+        "past": "Buluştum",
+        "want": "Buluşmak istiyorum",
+        "future": "Buluşacağım"
+      }
+    },
+    {
+      "turkish": "ziyaret etmek",
+      "english": "Visit",
+      "category": "movement",
+      "forms": {
+        "present": "Ziyaret ediyorum",
+        "past": "Ziyaret ettim",
+        "want": "Ziyaret etmek istiyorum",
+        "future": "Ziyaret edeceğim"
+      }
+    },
+    {
+      "turkish": "görmek",
+      "english": "See",
+      "category": "communication",
+      "forms": {
+        "present": "Görüyorum",
+        "past": "Gördüm",
+        "want": "Görmek istiyorum",
+        "future": "Göreceğim"
+      }
+    },
+    {
+      "turkish": "bakmak",
+      "english": "Look",
+      "category": "communication",
+      "forms": {
+        "present": "Bakıyorum",
+        "past": "Baktım",
+        "want": "Bakmak istiyorum",
+        "future": "Bakacağım"
+      }
+    },
+    {
+      "turkish": "izlemek",
+      "english": "Watch",
+      "category": "communication",
+      "forms": {
+        "present": "İzliyorum",
+        "past": "İzledim",
+        "want": "İzlemek istiyorum",
+        "future": "İzleyeceğim"
+      }
+    },
+    {
+      "turkish": "dinlemek",
+      "english": "Listen",
+      "category": "communication",
+      "forms": {
+        "present": "Dinliyorum",
+        "past": "Dinledim",
+        "want": "Dinlemek istiyorum",
+        "future": "Dinleyeceğim"
+      }
+    },
+    {
+      "turkish": "duymak",
+      "english": "Hear",
+      "category": "communication",
+      "forms": {
+        "present": "Duyuyorum",
+        "past": "Duydum",
+        "want": "Duymak istiyorum",
+        "future": "Duyacağım"
+      }
+    },
+    {
+      "turkish": "bulmak",
+      "english": "Find",
+      "category": "basics",
+      "forms": {
+        "present": "Buluyorum",
+        "past": "Buldum",
+        "want": "Bulmak istiyorum",
+        "future": "Bulacağım"
+      }
+    },
+    {
+      "turkish": "kaybetmek",
+      "english": "Lose",
+      "category": "basics",
+      "forms": {
+        "present": "Kaybediyorum",
+        "past": "Kaybettim",
+        "want": "Kaybetmek istiyorum",
+        "future": "Kaybedeceğim"
+      }
+    },
+    {
+      "turkish": "aramak",
+      "english": "Look for / search",
+      "category": "basics",
+      "forms": {
+        "present": "Arıyorum",
+        "past": "Aradım",
+        "want": "Aramak istiyorum",
+        "future": "Arayacağım"
+      }
+    },
+    {
+      "turkish": "kullanmak",
+      "english": "Use",
+      "category": "basics",
+      "forms": {
+        "present": "Kullanıyorum",
+        "past": "Kullandım",
+        "want": "Kullanmak istiyorum",
+        "future": "Kullanacağım"
+      }
+    },
+    {
+      "turkish": "üretmek",
+      "english": "Produce",
+      "category": "home",
+      "forms": {
+        "present": "Üretiyorum",
+        "past": "Ürettim",
+        "want": "Üretmek istiyorum",
+        "future": "Üreteceğim"
+      }
+    },
+    {
+      "turkish": "hazırlamak",
+      "english": "Prepare",
+      "category": "home",
+      "forms": {
+        "present": "Hazırlıyorum",
+        "past": "Hazırladım",
+        "want": "Hazırlamak istiyorum",
+        "future": "Hazırlayacağım"
+      }
+    },
+    {
+      "turkish": "pişirmek",
+      "english": "Cook",
+      "category": "home",
+      "forms": {
+        "present": "Pişiriyorum",
+        "past": "Pişirdim",
+        "want": "Pişirmek istiyorum",
+        "future": "Pişireceğim"
+      }
+    },
+    {
+      "turkish": "temizlemek",
+      "english": "Clean",
+      "category": "home",
+      "forms": {
+        "present": "Temizliyorum",
+        "past": "Temizledim",
+        "want": "Temizlemek istiyorum",
+        "future": "Temizleyeceğim"
+      }
+    },
+    {
+      "turkish": "yıkamak",
+      "english": "Wash",
+      "category": "home",
+      "forms": {
+        "present": "Yıkıyorum",
+        "past": "Yıkadım",
+        "want": "Yıkamak istiyorum",
+        "future": "Yıkayacağım"
+      }
+    },
+    {
+      "turkish": "duş almak",
+      "english": "Take a shower",
+      "category": "home",
+      "forms": {
+        "present": "Duş alıyorum",
+        "past": "Duş aldım",
+        "want": "Duş almak istiyorum",
+        "future": "Duş alacağım"
+      }
+    },
+    {
+      "turkish": "giymek",
+      "english": "Wear",
+      "category": "home",
+      "forms": {
+        "present": "Giyiyorum",
+        "past": "Giydim",
+        "want": "Giymek istiyorum",
+        "future": "Giyeceğim"
+      }
+    },
+    {
+      "turkish": "koymak",
+      "english": "Put / place",
+      "category": "home",
+      "forms": {
+        "present": "Koyuyorum",
+        "past": "Koydum",
+        "want": "Koymak istiyorum",
+        "future": "Koyacağım"
+      }
+    },
+    {
+      "turkish": "çıkarmak",
+      "english": "Remove / take off",
+      "category": "home",
+      "forms": {
+        "present": "Çıkarıyorum",
+        "past": "Çıkardım",
+        "want": "Çıkarmak istiyorum",
+        "future": "Çıkaracağım"
+      }
+    },
+    {
+      "turkish": "taşımak",
+      "english": "Carry",
+      "category": "home",
+      "forms": {
+        "present": "Taşıyorum",
+        "past": "Taşıdım",
+        "want": "Taşımak istiyorum",
+        "future": "Taşıyacağım"
+      }
+    },
+    {
+      "turkish": "kesmek",
+      "english": "Cut",
+      "category": "home",
+      "forms": {
+        "present": "Kesiyorum",
+        "past": "Kestim",
+        "want": "Kesmek istiyorum",
+        "future": "Keseceğim"
+      }
+    },
+    {
+      "turkish": "başlamak",
+      "english": "Start",
+      "category": "basics",
+      "forms": {
+        "present": "Başlıyorum",
+        "past": "Başladım",
+        "want": "Başlamak istiyorum",
+        "future": "Başlayacağım"
+      }
+    },
+    {
+      "turkish": "bitirmek",
+      "english": "Finish something",
+      "category": "basics",
+      "forms": {
+        "present": "Bitiriyorum",
+        "past": "Bitirdim",
+        "want": "Bitirmek istiyorum",
+        "future": "Bitireceğim"
+      }
+    },
+    {
+      "turkish": "bitmek",
+      "english": "Come to an end",
+      "category": "basics",
+      "forms": {
+        "present": "Bitiyor",
+        "past": "Bitti",
+        "want": "Bitmek istiyor",
+        "future": "Bitecek"
+      }
+    },
+    {
+      "turkish": "durmak",
+      "english": "Stop / stand still",
+      "category": "movement",
+      "forms": {
+        "present": "Duruyorum",
+        "past": "Durdum",
+        "want": "Durmak istiyorum",
+        "future": "Duracağım"
+      }
+    },
+    {
+      "turkish": "devam etmek",
+      "english": "Continue",
+      "category": "basics",
+      "forms": {
+        "present": "Devam ediyorum",
+        "past": "Devam ettim",
+        "want": "Devam etmek istiyorum",
+        "future": "Devam edeceğim"
+      }
+    },
+    {
+      "turkish": "denemek",
+      "english": "Try",
+      "category": "basics",
+      "forms": {
+        "present": "Deniyorum",
+        "past": "Denedim",
+        "want": "Denemek istiyorum",
+        "future": "Deneyeceğim"
+      }
+    },
+    {
+      "turkish": "seçmek",
+      "english": "Choose",
+      "category": "basics",
+      "forms": {
+        "present": "Seçiyorum",
+        "past": "Seçtim",
+        "want": "Seçmek istiyorum",
+        "future": "Seçeceğim"
+      }
+    },
+    {
+      "turkish": "karar vermek",
+      "english": "Decide",
+      "category": "basics",
+      "forms": {
+        "present": "Karar veriyorum",
+        "past": "Karar verdim",
+        "want": "Karar vermek istiyorum",
+        "future": "Karar vereceğim"
+      }
+    },
+    {
+      "turkish": "planlamak",
+      "english": "Plan",
+      "category": "basics",
+      "forms": {
+        "present": "Planlıyorum",
+        "past": "Planladım",
+        "want": "Planlamak istiyorum",
+        "future": "Planlayacağım"
+      }
+    },
+    {
+      "turkish": "çalışmak",
+      "english": "Work / study",
+      "category": "basics",
+      "forms": {
+        "present": "Çalışıyorum",
+        "past": "Çalıştım",
+        "want": "Çalışmak istiyorum",
+        "future": "Çalışacağım"
+      }
+    },
+    {
+      "turkish": "yaşamak",
+      "english": "Live",
+      "category": "basics",
+      "forms": {
+        "present": "Yaşıyorum",
+        "past": "Yaşadım",
+        "want": "Yaşamak istiyorum",
+        "future": "Yaşayacağım"
+      }
+    },
+    {
+      "turkish": "kalmak",
+      "english": "Stay",
+      "category": "movement",
+      "forms": {
+        "present": "Kalıyorum",
+        "past": "Kaldım",
+        "want": "Kalmak istiyorum",
+        "future": "Kalacağım"
+      }
+    },
+    {
+      "turkish": "ayrılmak",
+      "english": "Leave / separate",
+      "category": "movement",
+      "forms": {
+        "present": "Ayrılıyorum",
+        "past": "Ayrıldım",
+        "want": "Ayrılmak istiyorum",
+        "future": "Ayrılacağım"
+      }
+    },
+    {
+      "turkish": "varmak",
+      "english": "Arrive / reach",
+      "category": "movement",
+      "forms": {
+        "present": "Varıyorum",
+        "past": "Vardım",
+        "want": "Varmak istiyorum",
+        "future": "Varacağım"
+      }
+    },
+    {
+      "turkish": "geri dönmek",
+      "english": "Return",
+      "category": "movement",
+      "forms": {
+        "present": "Geri dönüyorum",
+        "past": "Geri döndüm",
+        "want": "Geri dönmek istiyorum",
+        "future": "Geri döneceğim"
+      }
+    },
+    {
+      "turkish": "girmek",
+      "english": "Enter",
+      "category": "movement",
+      "forms": {
+        "present": "Giriyorum",
+        "past": "Girdim",
+        "want": "Girmek istiyorum",
+        "future": "Gireceğim"
+      }
+    },
+    {
+      "turkish": "çıkmak",
+      "english": "Go out / exit",
+      "category": "movement",
+      "forms": {
+        "present": "Çıkıyorum",
+        "past": "Çıktım",
+        "want": "Çıkmak istiyorum",
+        "future": "Çıkacağım"
+      }
+    },
+    {
+      "turkish": "göndermek",
+      "english": "Send",
+      "category": "communication",
+      "forms": {
+        "present": "Gönderiyorum",
+        "past": "Gönderdim",
+        "want": "Göndermek istiyorum",
+        "future": "Göndereceğim"
+      }
+    },
+    {
+      "turkish": "almak",
+      "english": "Receive / take",
+      "category": "basics",
+      "forms": {
+        "present": "Alıyorum",
+        "past": "Aldım",
+        "want": "Almak istiyorum",
+        "future": "Alacağım"
+      }
+    },
+    {
+      "turkish": "açıklamak",
+      "english": "Explain",
+      "category": "communication",
+      "forms": {
+        "present": "Açıklıyorum",
+        "past": "Açıkladım",
+        "want": "Açıklamak istiyorum",
+        "future": "Açıklayacağım"
+      }
+    },
+    {
+      "turkish": "göstermek",
+      "english": "Show",
+      "category": "communication",
+      "forms": {
+        "present": "Gösteriyorum",
+        "past": "Gösterdim",
+        "want": "Göstermek istiyorum",
+        "future": "Göstereceğim"
+      }
+    },
+    {
+      "turkish": "hatırlamak",
+      "english": "Remember",
+      "category": "communication",
+      "forms": {
+        "present": "Hatırlıyorum",
+        "past": "Hatırladım",
+        "want": "Hatırlamak istiyorum",
+        "future": "Hatırlayacağım"
+      }
+    },
+    {
+      "turkish": "unutmak",
+      "english": "Forget",
+      "category": "communication",
+      "forms": {
+        "present": "Unutuyorum",
+        "past": "Unuttum",
+        "want": "Unutmak istiyorum",
+        "future": "Unutacağım"
+      }
+    },
+    {
+      "turkish": "inanmak",
+      "english": "Believe",
+      "category": "feelings",
+      "forms": {
+        "present": "İnanıyorum",
+        "past": "İnandım",
+        "want": "İnanmak istiyorum",
+        "future": "İnanacağım"
+      }
+    },
+    {
+      "turkish": "hissetmek",
+      "english": "Feel",
+      "category": "feelings",
+      "forms": {
+        "present": "Hissediyorum",
+        "past": "Hissettim",
+        "want": "Hissetmek istiyorum",
+        "future": "Hissedeceğim"
+      }
+    },
+    {
+      "turkish": "ağrımak",
+      "english": "Ache",
+      "category": "feelings",
+      "forms": {
+        "present": "Ağrıyor",
+        "past": "Ağrıdı",
+        "want": "Ağrımasını istiyorum",
+        "future": "Ağrıyacak"
+      }
+    },
+    {
+      "turkish": "yağmur yağmak",
+      "english": "Rain",
+      "category": "feelings",
+      "forms": {
+        "present": "Yağmur yağıyor",
+        "past": "Yağmur yağdı",
+        "want": "Yağmur yağmasını istiyorum",
+        "future": "Yağmur yağacak"
+      }
+    },
+    {
+      "turkish": "gülmek",
+      "english": "Laugh",
+      "category": "feelings",
+      "forms": {
+        "present": "Gülüyorum",
+        "past": "Güldüm",
+        "want": "Gülmek istiyorum",
+        "future": "Güleceğim"
+      }
+    },
+    {
+      "turkish": "ağlamak",
+      "english": "Cry",
+      "category": "feelings",
+      "forms": {
+        "present": "Ağlıyorum",
+        "past": "Ağladım",
+        "want": "Ağlamak istiyorum",
+        "future": "Ağlayacağım"
+      }
+    },
+    {
+      "turkish": "oynamak",
+      "english": "Play",
+      "category": "feelings",
+      "forms": {
+        "present": "Oynuyorum",
+        "past": "Oynadım",
+        "want": "Oynamak istiyorum",
+        "future": "Oynayacağım"
+      }
+    },
+    {
+      "turkish": "eğlenmek",
+      "english": "Have fun",
+      "category": "feelings",
+      "forms": {
+        "present": "Eğleniyorum",
+        "past": "Eğlendim",
+        "want": "Eğlenmek istiyorum",
+        "future": "Eğleneceğim"
+      }
+    },
+    {
+      "turkish": "değiştirmek",
+      "english": "Change something",
+      "category": "basics",
+      "forms": {
+        "present": "Değiştiriyorum",
+        "past": "Değiştirdim",
+        "want": "Değiştirmek istiyorum",
+        "future": "Değiştireceğim"
+      }
+    },
+    {
+      "turkish": "yardımcı olmak",
+      "english": "Help out",
+      "category": "basics",
+      "forms": {
+        "present": "Yardımcı oluyorum",
+        "past": "Yardımcı oldum",
+        "want": "Yardımcı olmak istiyorum",
+        "future": "Yardımcı olacağım"
+      }
+    }
+  ]
+}
