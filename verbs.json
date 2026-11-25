@@ -24,19 +24,27 @@
   "forms": [
     {
       "id": "present",
-      "label": "Present"
+      "label": "Present",
+      "marker": "-iyor",
+      "hint": "What's happening now, or what you usually do."
     },
     {
       "id": "past",
-      "label": "Past"
+      "label": "Past",
+      "marker": "-di",
+      "hint": "Something that already happened."
     },
     {
       "id": "want",
-      "label": "I want to…"
+      "label": "I want to…",
+      "marker": "-mek istiyorum",
+      "hint": "The dictionary form + istiyorum."
     },
     {
       "id": "future",
-      "label": "Future"
+      "label": "Future",
+      "marker": "-ecek",
+      "hint": "What you will do."
     }
   ],
   "verbs": [
@@ -49,6 +57,24 @@
         "past": "Gittim",
         "want": "Gitmek istiyorum",
         "future": "Gideceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şimdi markete gidiyorum.",
+          "en": "I'm going to the market now."
+        },
+        "past": {
+          "tr": "Dün okula gittim.",
+          "en": "I went to school yesterday."
+        },
+        "want": {
+          "tr": "Yazın İstanbul'a gitmek istiyorum.",
+          "en": "I want to go to Istanbul in the summer."
+        },
+        "future": {
+          "tr": "Yarın doktora gideceğim.",
+          "en": "I will go to the doctor tomorrow."
+        }
       }
     },
     {
@@ -60,6 +86,24 @@
         "past": "Geldim",
         "want": "Gelmek istiyorum",
         "future": "Geleceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Geliyorum, beş dakika bekle.",
+          "en": "I'm coming, wait five minutes."
+        },
+        "past": {
+          "tr": "Eve geç geldim.",
+          "en": "I came home late."
+        },
+        "want": {
+          "tr": "Partine gelmek istiyorum.",
+          "en": "I want to come to your party."
+        },
+        "future": {
+          "tr": "Akşam sana geleceğim.",
+          "en": "I will come to you in the evening."
+        }
       }
     },
     {
@@ -71,6 +115,24 @@
         "past": "Yaptım",
         "want": "Yapmak istiyorum",
         "future": "Yapacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şu an ödevimi yapıyorum.",
+          "en": "I'm doing my homework right now."
+        },
+        "past": {
+          "tr": "Kahvaltıyı ben yaptım.",
+          "en": "I made breakfast."
+        },
+        "want": {
+          "tr": "Bugün spor yapmak istiyorum.",
+          "en": "I want to do some sport today."
+        },
+        "future": {
+          "tr": "Hafta sonu kek yapacağım.",
+          "en": "I will make a cake at the weekend."
+        }
       }
     },
     {
@@ -82,6 +144,24 @@
         "past": "Oldum",
         "want": "Olmak istiyorum",
         "future": "Olacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her gün daha iyi oluyorum.",
+          "en": "I'm getting better every day."
+        },
+        "past": {
+          "tr": "Geçen yıl öğretmen oldum.",
+          "en": "I became a teacher last year."
+        },
+        "want": {
+          "tr": "Doktor olmak istiyorum.",
+          "en": "I want to be a doctor."
+        },
+        "future": {
+          "tr": "Yakında baba olacağım.",
+          "en": "I will be a father soon."
+        }
       }
     },
     {
@@ -93,6 +173,24 @@
         "past": "Sahip oldum",
         "want": "Sahip olmak istiyorum",
         "future": "Sahip olacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bir arabaya sahibim.",
+          "en": "I have a car."
+        },
+        "past": {
+          "tr": "Sonunda kendi evime sahip oldum.",
+          "en": "I finally got a home of my own."
+        },
+        "want": {
+          "tr": "Büyük bir kütüphaneye sahip olmak istiyorum.",
+          "en": "I want to have a big library."
+        },
+        "future": {
+          "tr": "Bir gün kendi şirketime sahip olacağım.",
+          "en": "One day I will have my own company."
+        }
       }
     },
     {
@@ -104,6 +202,24 @@
         "past": "Yedim",
         "want": "Yemek istiyorum",
         "future": "Yiyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şu an öğle yemeği yiyorum.",
+          "en": "I'm eating lunch right now."
+        },
+        "past": {
+          "tr": "Sabah iki yumurta yedim.",
+          "en": "I ate two eggs this morning."
+        },
+        "want": {
+          "tr": "Bu akşam pizza yemek istiyorum.",
+          "en": "I want to eat pizza tonight."
+        },
+        "future": {
+          "tr": "Akşam annemle yemek yiyeceğim.",
+          "en": "I will have dinner with my mother this evening."
+        }
       }
     },
     {
@@ -115,6 +231,24 @@
         "past": "İçtim",
         "want": "İçmek istiyorum",
         "future": "İçeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her sabah çay içiyorum.",
+          "en": "I drink tea every morning."
+        },
+        "past": {
+          "tr": "Az önce kahve içtim.",
+          "en": "I just had a coffee."
+        },
+        "want": {
+          "tr": "Bir bardak soğuk su içmek istiyorum.",
+          "en": "I want to drink a glass of cold water."
+        },
+        "future": {
+          "tr": "Toplantıdan sonra çay içeceğim.",
+          "en": "I will have tea after the meeting."
+        }
       }
     },
     {
@@ -126,6 +260,24 @@
         "past": "Uyudum",
         "want": "Uyumak istiyorum",
         "future": "Uyuyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu günlerde çok iyi uyuyorum.",
+          "en": "I'm sleeping very well these days."
+        },
+        "past": {
+          "tr": "Dün gece sekiz saat uyudum.",
+          "en": "I slept eight hours last night."
+        },
+        "want": {
+          "tr": "Biraz daha uyumak istiyorum.",
+          "en": "I want to sleep a little longer."
+        },
+        "future": {
+          "tr": "Bu gece erken uyuyacağım.",
+          "en": "I will go to sleep early tonight."
+        }
       }
     },
     {
@@ -137,6 +289,24 @@
         "past": "Uyandım",
         "want": "Uyanmak istiyorum",
         "future": "Uyanacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her gün yedide uyanıyorum.",
+          "en": "I wake up at seven every day."
+        },
+        "past": {
+          "tr": "Bugün çok geç uyandım.",
+          "en": "I woke up very late today."
+        },
+        "want": {
+          "tr": "Hafta sonu alarmsız uyanmak istiyorum.",
+          "en": "At the weekend I want to wake up without an alarm."
+        },
+        "future": {
+          "tr": "Yarın erken uyanacağım.",
+          "en": "I will wake up early tomorrow."
+        }
       }
     },
     {
@@ -148,6 +318,24 @@
         "past": "Kalktım",
         "want": "Kalkmak istiyorum",
         "future": "Kalkacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Sabahları hemen yataktan kalkıyorum.",
+          "en": "In the mornings I get out of bed right away."
+        },
+        "past": {
+          "tr": "Bugün altıda kalktım.",
+          "en": "I got up at six today."
+        },
+        "want": {
+          "tr": "Erken kalkmak istiyorum ama zor.",
+          "en": "I want to get up early, but it's hard."
+        },
+        "future": {
+          "tr": "Yarın beşte kalkacağım.",
+          "en": "I will get up at five tomorrow."
+        }
       }
     },
     {
@@ -159,6 +347,24 @@
         "past": "Oturdum",
         "want": "Oturmak istiyorum",
         "future": "Oturacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Pencerenin yanında oturuyorum.",
+          "en": "I'm sitting by the window."
+        },
+        "past": {
+          "tr": "Parkta bir saat oturdum.",
+          "en": "I sat in the park for an hour."
+        },
+        "want": {
+          "tr": "Biraz oturmak istiyorum, yoruldum.",
+          "en": "I want to sit for a bit, I'm tired."
+        },
+        "future": {
+          "tr": "Konserde ön sırada oturacağım.",
+          "en": "I will sit in the front row at the concert."
+        }
       }
     },
     {
@@ -170,6 +376,24 @@
         "past": "Ayakta durdum",
         "want": "Ayakta durmak istiyorum",
         "future": "Ayakta duracağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Otobüste ayakta duruyorum.",
+          "en": "I'm standing on the bus."
+        },
+        "past": {
+          "tr": "Bütün gün ayakta durdum.",
+          "en": "I stood all day."
+        },
+        "want": {
+          "tr": "Konserde ön tarafta ayakta durmak istiyorum.",
+          "en": "At the concert I want to stand at the front."
+        },
+        "future": {
+          "tr": "Yer yoksa ayakta duracağım.",
+          "en": "If there's no seat, I'll stand."
+        }
       }
     },
     {
@@ -181,6 +405,24 @@
         "past": "Yürüdüm",
         "want": "Yürümek istiyorum",
         "future": "Yürüyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her akşam sahilde yürüyorum.",
+          "en": "I walk along the shore every evening."
+        },
+        "past": {
+          "tr": "Bugün on bin adım yürüdüm.",
+          "en": "I walked ten thousand steps today."
+        },
+        "want": {
+          "tr": "Eve yürümek istiyorum.",
+          "en": "I want to walk home."
+        },
+        "future": {
+          "tr": "Yarın işe yürüyeceğim.",
+          "en": "I will walk to work tomorrow."
+        }
       }
     },
     {
@@ -192,6 +434,24 @@
         "past": "Koştum",
         "want": "Koşmak istiyorum",
         "future": "Koşacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Parkta koşuyorum.",
+          "en": "I'm running in the park."
+        },
+        "past": {
+          "tr": "Sabah beş kilometre koştum.",
+          "en": "I ran five kilometres this morning."
+        },
+        "want": {
+          "tr": "Bir maraton koşmak istiyorum.",
+          "en": "I want to run a marathon."
+        },
+        "future": {
+          "tr": "Hafta sonu yine koşacağım.",
+          "en": "I will run again at the weekend."
+        }
       }
     },
     {
@@ -203,6 +463,24 @@
         "past": "Araba kullandım",
         "want": "Araba kullanmak istiyorum",
         "future": "Araba kullanacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Dikkatli araba kullanıyorum.",
+          "en": "I drive carefully."
+        },
+        "past": {
+          "tr": "Dün ilk kez araba kullandım.",
+          "en": "Yesterday I drove for the first time."
+        },
+        "want": {
+          "tr": "Elektrikli araba kullanmak istiyorum.",
+          "en": "I want to drive an electric car."
+        },
+        "future": {
+          "tr": "Yolculukta ben araba kullanacağım.",
+          "en": "I will drive on the trip."
+        }
       }
     },
     {
@@ -214,6 +492,24 @@
         "past": "Bindim",
         "want": "Binmek istiyorum",
         "future": "Bineceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her sabah otobüse biniyorum.",
+          "en": "I get on the bus every morning."
+        },
+        "past": {
+          "tr": "Dün ilk kez ata bindim.",
+          "en": "Yesterday I rode a horse for the first time."
+        },
+        "want": {
+          "tr": "Vapura binmek istiyorum.",
+          "en": "I want to take the ferry."
+        },
+        "future": {
+          "tr": "Saat üçte uçağa bineceğim.",
+          "en": "I will board the plane at three."
+        }
       }
     },
     {
@@ -225,6 +521,24 @@
         "past": "Aldım",
         "want": "Almak istiyorum",
         "future": "Alacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Marketten ekmek alıyorum.",
+          "en": "I'm getting bread from the shop."
+        },
+        "past": {
+          "tr": "Kütüphaneden iki kitap aldım.",
+          "en": "I took two books from the library."
+        },
+        "want": {
+          "tr": "Bir kahve daha almak istiyorum.",
+          "en": "I want to get another coffee."
+        },
+        "future": {
+          "tr": "Yolda su alacağım.",
+          "en": "I will get some water on the way."
+        }
       }
     },
     {
@@ -236,6 +550,24 @@
         "past": "Verdim",
         "want": "Vermek istiyorum",
         "future": "Vereceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kardeşime kalemimi veriyorum.",
+          "en": "I'm giving my pen to my sibling."
+        },
+        "past": {
+          "tr": "Arkadaşıma bir hediye verdim.",
+          "en": "I gave my friend a present."
+        },
+        "want": {
+          "tr": "Sana bir tavsiye vermek istiyorum.",
+          "en": "I want to give you some advice."
+        },
+        "future": {
+          "tr": "Kitabı yarın sana vereceğim.",
+          "en": "I will give you the book tomorrow."
+        }
       }
     },
     {
@@ -247,6 +579,24 @@
         "past": "Getirdim",
         "want": "Getirmek istiyorum",
         "future": "Getireceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Eve çiçek getiriyorum.",
+          "en": "I'm bringing flowers home."
+        },
+        "past": {
+          "tr": "Partiye tatlı getirdim.",
+          "en": "I brought dessert to the party."
+        },
+        "want": {
+          "tr": "Sana bir şey getirmek istiyorum.",
+          "en": "I want to bring you something."
+        },
+        "future": {
+          "tr": "Yarın kitabını getireceğim.",
+          "en": "I will bring your book tomorrow."
+        }
       }
     },
     {
@@ -258,6 +608,24 @@
         "past": "Götürdüm",
         "want": "Götürmek istiyorum",
         "future": "Götüreceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Çocukları okula götürüyorum.",
+          "en": "I'm taking the kids to school."
+        },
+        "past": {
+          "tr": "Köpeği veterinere götürdüm.",
+          "en": "I took the dog to the vet."
+        },
+        "want": {
+          "tr": "Seni güzel bir restorana götürmek istiyorum.",
+          "en": "I want to take you to a nice restaurant."
+        },
+        "future": {
+          "tr": "Bu paketi postaneye götüreceğim.",
+          "en": "I will take this parcel to the post office."
+        }
       }
     },
     {
@@ -269,6 +637,24 @@
         "past": "Satın aldım",
         "want": "Satın almak istiyorum",
         "future": "Satın alacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "İnternetten ayakkabı satın alıyorum.",
+          "en": "I'm buying shoes online."
+        },
+        "past": {
+          "tr": "Geçen hafta yeni bir telefon satın aldım.",
+          "en": "I bought a new phone last week."
+        },
+        "want": {
+          "tr": "Bir bisiklet satın almak istiyorum.",
+          "en": "I want to buy a bike."
+        },
+        "future": {
+          "tr": "Biletleri bu akşam satın alacağım.",
+          "en": "I will buy the tickets tonight."
+        }
       }
     },
     {
@@ -280,6 +666,24 @@
         "past": "Sattım",
         "want": "Satmak istiyorum",
         "future": "Satacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Eski arabamı satıyorum.",
+          "en": "I'm selling my old car."
+        },
+        "past": {
+          "tr": "Bütün kitaplarımı sattım.",
+          "en": "I sold all my books."
+        },
+        "want": {
+          "tr": "Bu dolabı satmak istiyorum.",
+          "en": "I want to sell this wardrobe."
+        },
+        "future": {
+          "tr": "Evi gelecek yıl satacağım.",
+          "en": "I will sell the house next year."
+        }
       }
     },
     {
@@ -291,6 +695,24 @@
         "past": "Ödedim",
         "want": "Ödemek istiyorum",
         "future": "Ödeyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Faturayı kartla ödüyorum.",
+          "en": "I'm paying the bill by card."
+        },
+        "past": {
+          "tr": "Kirayı dün ödedim.",
+          "en": "I paid the rent yesterday."
+        },
+        "want": {
+          "tr": "Hesabı ben ödemek istiyorum.",
+          "en": "I want to pay the bill."
+        },
+        "future": {
+          "tr": "Gelecek ay borcumu ödeyeceğim.",
+          "en": "I will pay off my debt next month."
+        }
       }
     },
     {
@@ -302,6 +724,24 @@
         "past": "Tuttu",
         "want": "Tutmak istiyor",
         "future": "Tutacak"
+      },
+      "examples": {
+        "present": {
+          "tr": "Hesap yüz lira tutuyor.",
+          "en": "The bill comes to a hundred lira."
+        },
+        "past": {
+          "tr": "Alışveriş beş yüz lira tuttu.",
+          "en": "The shopping came to five hundred lira."
+        },
+        "want": {
+          "tr": "Bebek elimi tutmak istiyor.",
+          "en": "The baby wants to hold my hand. (tutmak also means \"to hold\")"
+        },
+        "future": {
+          "tr": "Tamir ne kadar tutacak?",
+          "en": "How much will the repair cost?"
+        }
       }
     },
     {
@@ -313,6 +753,24 @@
         "past": "Açtım",
         "want": "Açmak istiyorum",
         "future": "Açacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Pencereyi açıyorum, hava çok sıcak.",
+          "en": "I'm opening the window, it's very hot."
+        },
+        "past": {
+          "tr": "Kapıyı anahtarla açtım.",
+          "en": "I opened the door with the key."
+        },
+        "want": {
+          "tr": "Bir kafe açmak istiyorum.",
+          "en": "I want to open a café."
+        },
+        "future": {
+          "tr": "Hediyeni şimdi açacağım.",
+          "en": "I'm going to open your present now."
+        }
       }
     },
     {
@@ -324,6 +782,24 @@
         "past": "Kapattım",
         "want": "Kapatmak istiyorum",
         "future": "Kapatacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Telefonu kapatıyorum.",
+          "en": "I'm turning off the phone."
+        },
+        "past": {
+          "tr": "Çıkmadan önce ışıkları kapattım.",
+          "en": "I turned off the lights before leaving."
+        },
+        "want": {
+          "tr": "Pencereyi kapatmak istiyorum, üşüyorum.",
+          "en": "I want to close the window, I'm cold."
+        },
+        "future": {
+          "tr": "Bilgisayarı birazdan kapatacağım.",
+          "en": "I will shut down the computer in a moment."
+        }
       }
     },
     {
@@ -335,6 +811,24 @@
         "past": "Bekledim",
         "want": "Beklemek istiyorum",
         "future": "Bekleyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Durakta otobüsü bekliyorum.",
+          "en": "I'm waiting for the bus at the stop."
+        },
+        "past": {
+          "tr": "Seni yarım saat bekledim.",
+          "en": "I waited for you for half an hour."
+        },
+        "want": {
+          "tr": "Burada beklemek istiyorum.",
+          "en": "I want to wait here."
+        },
+        "future": {
+          "tr": "Seni kapıda bekleyeceğim.",
+          "en": "I will wait for you at the door."
+        }
       }
     },
     {
@@ -346,6 +840,24 @@
         "past": "Yardım ettim",
         "want": "Yardım etmek istiyorum",
         "future": "Yardım edeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Annemin yemek yapmasına yardım ediyorum.",
+          "en": "I'm helping my mother cook."
+        },
+        "past": {
+          "tr": "Komşuma taşınırken yardım ettim.",
+          "en": "I helped my neighbour when they moved."
+        },
+        "want": {
+          "tr": "Sana yardım etmek istiyorum.",
+          "en": "I want to help you."
+        },
+        "future": {
+          "tr": "Ödevinde sana yardım edeceğim.",
+          "en": "I will help you with your homework."
+        }
       }
     },
     {
@@ -357,6 +869,24 @@
         "past": "İhtiyaç duydum",
         "want": "İhtiyaç duymak istiyorum",
         "future": "İhtiyaç duyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Biraz dinlenmeye ihtiyaç duyuyorum.",
+          "en": "I need some rest."
+        },
+        "past": {
+          "tr": "Dün gece yardıma ihtiyaç duydum.",
+          "en": "I needed help last night."
+        },
+        "want": {
+          "tr": "Daha az eşyaya ihtiyaç duymak istiyorum.",
+          "en": "I want to need fewer things."
+        },
+        "future": {
+          "tr": "Yolculukta pasaportuma ihtiyaç duyacağım.",
+          "en": "I will need my passport for the trip."
+        }
       }
     },
     {
@@ -368,6 +898,24 @@
         "past": "İstedim",
         "want": "İstemek istiyorum",
         "future": "İsteyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bir bardak su istiyorum.",
+          "en": "I want a glass of water."
+        },
+        "past": {
+          "tr": "Garsondan menüyü istedim.",
+          "en": "I asked the waiter for the menu."
+        },
+        "want": {
+          "tr": "Patronumdan izin istemek istiyorum.",
+          "en": "I want to ask my boss for time off."
+        },
+        "future": {
+          "tr": "Doğum günümde bir kitap isteyeceğim.",
+          "en": "I will ask for a book for my birthday."
+        }
       }
     },
     {
@@ -379,6 +927,24 @@
         "past": "Sevdim",
         "want": "Sevmek istiyorum",
         "future": "Seveceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Türk kahvesini çok seviyorum.",
+          "en": "I really love Turkish coffee."
+        },
+        "past": {
+          "tr": "Filmi çok sevdim.",
+          "en": "I really liked the film."
+        },
+        "want": {
+          "tr": "Bu şehri sevmek istiyorum.",
+          "en": "I want to like this city."
+        },
+        "future": {
+          "tr": "Eminim yeni evini seveceğim.",
+          "en": "I'm sure I will love your new home."
+        }
       }
     },
     {
@@ -390,6 +956,24 @@
         "past": "Âşık oldum",
         "want": "Âşık olmak istiyorum",
         "future": "Âşık olacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Sanırım sana âşık oluyorum.",
+          "en": "I think I'm falling in love with you."
+        },
+        "past": {
+          "tr": "İstanbul'a ilk görüşte âşık oldum.",
+          "en": "I fell in love with Istanbul at first sight."
+        },
+        "want": {
+          "tr": "Yeniden âşık olmak istiyorum.",
+          "en": "I want to fall in love again."
+        },
+        "future": {
+          "tr": "Bu şehre âşık olacağım, biliyorum.",
+          "en": "I know I will fall in love with this city."
+        }
       }
     },
     {
@@ -401,6 +985,24 @@
         "past": "Düşündüm",
         "want": "Düşünmek istiyorum",
         "future": "Düşüneceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Seni düşünüyorum.",
+          "en": "I'm thinking of you."
+        },
+        "past": {
+          "tr": "Bu konuyu çok düşündüm.",
+          "en": "I thought about this a lot."
+        },
+        "want": {
+          "tr": "Biraz düşünmek istiyorum.",
+          "en": "I want to think about it a bit."
+        },
+        "future": {
+          "tr": "Teklifini düşüneceğim.",
+          "en": "I will think about your offer."
+        }
       }
     },
     {
@@ -412,6 +1014,24 @@
         "past": "Bildim",
         "want": "Bilmek istiyorum",
         "future": "Bileceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu adresi biliyorum.",
+          "en": "I know this address."
+        },
+        "past": {
+          "tr": "Cevabı bildim!",
+          "en": "I got the answer right!"
+        },
+        "want": {
+          "tr": "Gerçeği bilmek istiyorum.",
+          "en": "I want to know the truth."
+        },
+        "future": {
+          "tr": "Sınav sonucunu yarın bileceğim.",
+          "en": "I will know the exam result tomorrow."
+        }
       }
     },
     {
@@ -423,6 +1043,24 @@
         "past": "Anladım",
         "want": "Anlamak istiyorum",
         "future": "Anlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Türkçeyi biraz anlıyorum.",
+          "en": "I understand a little Turkish."
+        },
+        "past": {
+          "tr": "Şimdi anladım, teşekkürler.",
+          "en": "I get it now, thanks."
+        },
+        "want": {
+          "tr": "Seni anlamak istiyorum.",
+          "en": "I want to understand you."
+        },
+        "future": {
+          "tr": "Zamanla anlayacağım.",
+          "en": "I will understand in time."
+        }
       }
     },
     {
@@ -434,6 +1072,24 @@
         "past": "Öğrendim",
         "want": "Öğrenmek istiyorum",
         "future": "Öğreneceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Türkçe öğreniyorum.",
+          "en": "I'm learning Turkish."
+        },
+        "past": {
+          "tr": "Bugün on yeni kelime öğrendim.",
+          "en": "I learned ten new words today."
+        },
+        "want": {
+          "tr": "Gitar çalmayı öğrenmek istiyorum.",
+          "en": "I want to learn to play the guitar."
+        },
+        "future": {
+          "tr": "Bu yıl yüzmeyi öğreneceğim.",
+          "en": "I will learn to swim this year."
+        }
       }
     },
     {
@@ -445,6 +1101,24 @@
         "past": "Öğrettim",
         "want": "Öğretmek istiyorum",
         "future": "Öğreteceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Çocuklara İngilizce öğretiyorum.",
+          "en": "I teach English to children."
+        },
+        "past": {
+          "tr": "Kardeşime bisiklet sürmeyi öğrettim.",
+          "en": "I taught my sibling to ride a bike."
+        },
+        "want": {
+          "tr": "Sana satranç öğretmek istiyorum.",
+          "en": "I want to teach you chess."
+        },
+        "future": {
+          "tr": "Yarın sana bu yemeği yapmayı öğreteceğim.",
+          "en": "Tomorrow I'll teach you how to make this dish."
+        }
       }
     },
     {
@@ -456,6 +1130,24 @@
         "past": "Okudum",
         "want": "Okumak istiyorum",
         "future": "Okuyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şu an bir roman okuyorum.",
+          "en": "I'm reading a novel right now."
+        },
+        "past": {
+          "tr": "Bu kitabı iki kez okudum.",
+          "en": "I read this book twice."
+        },
+        "want": {
+          "tr": "Gazeteyi okumak istiyorum.",
+          "en": "I want to read the newspaper."
+        },
+        "future": {
+          "tr": "Tatilde çok kitap okuyacağım.",
+          "en": "I will read lots of books on holiday."
+        }
       }
     },
     {
@@ -467,6 +1159,24 @@
         "past": "Yazdım",
         "want": "Yazmak istiyorum",
         "future": "Yazacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Arkadaşıma mektup yazıyorum.",
+          "en": "I'm writing a letter to my friend."
+        },
+        "past": {
+          "tr": "Dün bir şiir yazdım.",
+          "en": "I wrote a poem yesterday."
+        },
+        "want": {
+          "tr": "Bir kitap yazmak istiyorum.",
+          "en": "I want to write a book."
+        },
+        "future": {
+          "tr": "Sana akşam mesaj yazacağım.",
+          "en": "I'll text you this evening."
+        }
       }
     },
     {
@@ -478,6 +1188,24 @@
         "past": "Konuştum",
         "want": "Konuşmak istiyorum",
         "future": "Konuşacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Telefonda annemle konuşuyorum.",
+          "en": "I'm talking to my mother on the phone."
+        },
+        "past": {
+          "tr": "Toplantıda Türkçe konuştum.",
+          "en": "I spoke Turkish in the meeting."
+        },
+        "want": {
+          "tr": "Seninle konuşmak istiyorum.",
+          "en": "I want to talk to you."
+        },
+        "future": {
+          "tr": "Yarın müdürle konuşacağım.",
+          "en": "I will talk to the manager tomorrow."
+        }
       }
     },
     {
@@ -489,6 +1217,24 @@
         "past": "Söyledim",
         "want": "Söylemek istiyorum",
         "future": "Söyleyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Sana doğruyu söylüyorum.",
+          "en": "I'm telling you the truth."
+        },
+        "past": {
+          "tr": "Arkadaşıma her şeyi söyledim.",
+          "en": "I told my friend everything."
+        },
+        "want": {
+          "tr": "Bir şey söylemek istiyorum.",
+          "en": "I want to say something."
+        },
+        "future": {
+          "tr": "Sonucu sana hemen söyleyeceğim.",
+          "en": "I will tell you the result right away."
+        }
       }
     },
     {
@@ -500,6 +1246,24 @@
         "past": "Anlattım",
         "want": "Anlatmak istiyorum",
         "future": "Anlatacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Çocuklara bir masal anlatıyorum.",
+          "en": "I'm telling the children a fairy tale."
+        },
+        "past": {
+          "tr": "Tatilimi arkadaşlarıma anlattım.",
+          "en": "I told my friends about my holiday."
+        },
+        "want": {
+          "tr": "Sana bir hikâye anlatmak istiyorum.",
+          "en": "I want to tell you a story."
+        },
+        "future": {
+          "tr": "Her şeyi sonra anlatacağım.",
+          "en": "I'll tell you everything later."
+        }
       }
     },
     {
@@ -511,6 +1275,24 @@
         "past": "Sordum",
         "want": "Sormak istiyorum",
         "future": "Soracağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Öğretmene bir soru soruyorum.",
+          "en": "I'm asking the teacher a question."
+        },
+        "past": {
+          "tr": "Yolu bir polise sordum.",
+          "en": "I asked a police officer for directions."
+        },
+        "want": {
+          "tr": "Size bir şey sormak istiyorum.",
+          "en": "I want to ask you something."
+        },
+        "future": {
+          "tr": "Fiyatı yarın soracağım.",
+          "en": "I will ask about the price tomorrow."
+        }
       }
     },
     {
@@ -522,6 +1304,24 @@
         "past": "Cevap verdim",
         "want": "Cevap vermek istiyorum",
         "future": "Cevap vereceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "E-postalara cevap veriyorum.",
+          "en": "I'm replying to emails."
+        },
+        "past": {
+          "tr": "Mesajına hemen cevap verdim.",
+          "en": "I replied to your message right away."
+        },
+        "want": {
+          "tr": "Bu soruya cevap vermek istiyorum.",
+          "en": "I want to answer this question."
+        },
+        "future": {
+          "tr": "Akşam sana cevap vereceğim.",
+          "en": "I will get back to you this evening."
+        }
       }
     },
     {
@@ -533,6 +1333,24 @@
         "past": "Aradım",
         "want": "Aramak istiyorum",
         "future": "Arayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Annemi arıyorum.",
+          "en": "I'm calling my mother."
+        },
+        "past": {
+          "tr": "Dün seni üç kez aradım.",
+          "en": "I called you three times yesterday."
+        },
+        "want": {
+          "tr": "Doktoru aramak istiyorum.",
+          "en": "I want to call the doctor."
+        },
+        "future": {
+          "tr": "Seni akşam arayacağım.",
+          "en": "I will call you this evening."
+        }
       }
     },
     {
@@ -544,6 +1362,24 @@
         "past": "Buluştum",
         "want": "Buluşmak istiyorum",
         "future": "Buluşacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu akşam arkadaşlarla buluşuyorum.",
+          "en": "I'm meeting friends tonight."
+        },
+        "past": {
+          "tr": "Kafede eski bir arkadaşla buluştum.",
+          "en": "I met up with an old friend at the café."
+        },
+        "want": {
+          "tr": "Hafta sonu seninle buluşmak istiyorum.",
+          "en": "I want to meet up with you at the weekend."
+        },
+        "future": {
+          "tr": "Ali'yle saat altıda meydanda buluşacağım.",
+          "en": "I'll meet Ali in the square at six."
+        }
       }
     },
     {
@@ -555,6 +1391,24 @@
         "past": "Ziyaret ettim",
         "want": "Ziyaret etmek istiyorum",
         "future": "Ziyaret edeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu hafta büyükannemi ziyaret ediyorum.",
+          "en": "I'm visiting my grandmother this week."
+        },
+        "past": {
+          "tr": "Geçen yıl Kapadokya'yı ziyaret ettim.",
+          "en": "I visited Cappadocia last year."
+        },
+        "want": {
+          "tr": "Müzeyi ziyaret etmek istiyorum.",
+          "en": "I want to visit the museum."
+        },
+        "future": {
+          "tr": "Yazın ailemi ziyaret edeceğim.",
+          "en": "I will visit my family in the summer."
+        }
       }
     },
     {
@@ -566,6 +1420,24 @@
         "past": "Gördüm",
         "want": "Görmek istiyorum",
         "future": "Göreceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Buradan denizi görüyorum.",
+          "en": "I can see the sea from here."
+        },
+        "past": {
+          "tr": "Dün sokakta öğretmenimi gördüm.",
+          "en": "I saw my teacher in the street yesterday."
+        },
+        "want": {
+          "tr": "Bu filmi görmek istiyorum.",
+          "en": "I want to see this film."
+        },
+        "future": {
+          "tr": "Seni yarın göreceğim.",
+          "en": "I'll see you tomorrow."
+        }
       }
     },
     {
@@ -577,6 +1449,24 @@
         "past": "Baktım",
         "want": "Bakmak istiyorum",
         "future": "Bakacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Haritaya bakıyorum.",
+          "en": "I'm looking at the map."
+        },
+        "past": {
+          "tr": "Saate baktım, çok geç olmuş.",
+          "en": "I looked at the clock — it had got very late."
+        },
+        "want": {
+          "tr": "Şu ceketlere bakmak istiyorum.",
+          "en": "I want to look at those jackets."
+        },
+        "future": {
+          "tr": "Çocuklara ben bakacağım.",
+          "en": "I will look after the children."
+        }
       }
     },
     {
@@ -588,6 +1478,24 @@
         "past": "İzledim",
         "want": "İzlemek istiyorum",
         "future": "İzleyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Televizyonda maç izliyorum.",
+          "en": "I'm watching a match on TV."
+        },
+        "past": {
+          "tr": "Dün gece güzel bir film izledim.",
+          "en": "I watched a good film last night."
+        },
+        "want": {
+          "tr": "Gün batımını izlemek istiyorum.",
+          "en": "I want to watch the sunset."
+        },
+        "future": {
+          "tr": "Yeni diziyi hafta sonu izleyeceğim.",
+          "en": "I will watch the new series at the weekend."
+        }
       }
     },
     {
@@ -599,6 +1507,24 @@
         "past": "Dinledim",
         "want": "Dinlemek istiyorum",
         "future": "Dinleyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Yolda müzik dinliyorum.",
+          "en": "I listen to music on the way."
+        },
+        "past": {
+          "tr": "Bütün gün podcast dinledim.",
+          "en": "I listened to podcasts all day."
+        },
+        "want": {
+          "tr": "Seni dinlemek istiyorum, anlat.",
+          "en": "I want to listen to you — go on."
+        },
+        "future": {
+          "tr": "Bu akşam yeni albümü dinleyeceğim.",
+          "en": "I will listen to the new album tonight."
+        }
       }
     },
     {
@@ -610,6 +1536,24 @@
         "past": "Duydum",
         "want": "Duymak istiyorum",
         "future": "Duyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bir ses duyuyorum.",
+          "en": "I hear a sound."
+        },
+        "past": {
+          "tr": "Haberi radyoda duydum.",
+          "en": "I heard the news on the radio."
+        },
+        "want": {
+          "tr": "Sesini duymak istiyorum.",
+          "en": "I want to hear your voice."
+        },
+        "future": {
+          "tr": "Sonucu yarın duyacağım.",
+          "en": "I'll hear the result tomorrow."
+        }
       }
     },
     {
@@ -621,6 +1565,24 @@
         "past": "Buldum",
         "want": "Bulmak istiyorum",
         "future": "Bulacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her zaman park yeri buluyorum.",
+          "en": "I always find a parking space."
+        },
+        "past": {
+          "tr": "Kayıp anahtarlarımı buldum!",
+          "en": "I found my lost keys!"
+        },
+        "want": {
+          "tr": "Yeni bir iş bulmak istiyorum.",
+          "en": "I want to find a new job."
+        },
+        "future": {
+          "tr": "Bir çözüm bulacağım.",
+          "en": "I will find a solution."
+        }
       }
     },
     {
@@ -632,6 +1594,24 @@
         "past": "Kaybettim",
         "want": "Kaybetmek istiyorum",
         "future": "Kaybedeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her maçta kaybediyorum.",
+          "en": "I lose every match."
+        },
+        "past": {
+          "tr": "Otobüste cüzdanımı kaybettim.",
+          "en": "I lost my wallet on the bus."
+        },
+        "want": {
+          "tr": "Biraz kilo kaybetmek istiyorum.",
+          "en": "I want to lose some weight."
+        },
+        "future": {
+          "tr": "Böyle devam edersem oyunu kaybedeceğim.",
+          "en": "If I carry on like this, I'll lose the game."
+        }
       }
     },
     {
@@ -643,6 +1623,24 @@
         "past": "Aradım",
         "want": "Aramak istiyorum",
         "future": "Arayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Gözlüğümü arıyorum.",
+          "en": "I'm looking for my glasses."
+        },
+        "past": {
+          "tr": "Her yerde telefonumu aradım.",
+          "en": "I looked everywhere for my phone."
+        },
+        "want": {
+          "tr": "Merkezde bir ev aramak istiyorum.",
+          "en": "I want to look for a flat in the centre."
+        },
+        "future": {
+          "tr": "Yarın yeni bir iş arayacağım.",
+          "en": "Tomorrow I'll look for a new job."
+        }
       }
     },
     {
@@ -654,6 +1652,24 @@
         "past": "Kullandım",
         "want": "Kullanmak istiyorum",
         "future": "Kullanacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her gün bu uygulamayı kullanıyorum.",
+          "en": "I use this app every day."
+        },
+        "past": {
+          "tr": "Tarifte az şeker kullandım.",
+          "en": "I used little sugar in the recipe."
+        },
+        "want": {
+          "tr": "Bilgisayarını kullanmak istiyorum, olur mu?",
+          "en": "I'd like to use your computer, is that OK?"
+        },
+        "future": {
+          "tr": "Toplantıda bu slaytları kullanacağım.",
+          "en": "I'll use these slides in the meeting."
+        }
       }
     },
     {
@@ -665,6 +1681,24 @@
         "past": "Ürettim",
         "want": "Üretmek istiyorum",
         "future": "Üreteceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Köyde kendi peynirimi üretiyorum.",
+          "en": "I make my own cheese in the village."
+        },
+        "past": {
+          "tr": "Bu ay çok içerik ürettim.",
+          "en": "I produced a lot of content this month."
+        },
+        "want": {
+          "tr": "Kendi zeytinyağımı üretmek istiyorum.",
+          "en": "I want to produce my own olive oil."
+        },
+        "future": {
+          "tr": "Gelecek yıl daha fazla ürün üreteceğim.",
+          "en": "I will produce more next year."
+        }
       }
     },
     {
@@ -676,6 +1710,24 @@
         "past": "Hazırladım",
         "want": "Hazırlamak istiyorum",
         "future": "Hazırlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kahvaltı hazırlıyorum.",
+          "en": "I'm making breakfast."
+        },
+        "past": {
+          "tr": "Sunumu dün gece hazırladım.",
+          "en": "I prepared the presentation last night."
+        },
+        "want": {
+          "tr": "Sana bir sürpriz hazırlamak istiyorum.",
+          "en": "I want to prepare a surprise for you."
+        },
+        "future": {
+          "tr": "Valizimi akşam hazırlayacağım.",
+          "en": "I will pack my suitcase this evening."
+        }
       }
     },
     {
@@ -687,6 +1739,24 @@
         "past": "Pişirdim",
         "want": "Pişirmek istiyorum",
         "future": "Pişireceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Fırında ekmek pişiriyorum.",
+          "en": "I'm baking bread in the oven."
+        },
+        "past": {
+          "tr": "Akşam için makarna pişirdim.",
+          "en": "I cooked pasta for dinner."
+        },
+        "want": {
+          "tr": "Mantı pişirmek istiyorum.",
+          "en": "I want to cook mantı."
+        },
+        "future": {
+          "tr": "Misafirler için kek pişireceğim.",
+          "en": "I will bake a cake for the guests."
+        }
       }
     },
     {
@@ -698,6 +1768,24 @@
         "past": "Temizledim",
         "want": "Temizlemek istiyorum",
         "future": "Temizleyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Mutfağı temizliyorum.",
+          "en": "I'm cleaning the kitchen."
+        },
+        "past": {
+          "tr": "Bütün evi temizledim.",
+          "en": "I cleaned the whole house."
+        },
+        "want": {
+          "tr": "Balkonu temizlemek istiyorum.",
+          "en": "I want to clean the balcony."
+        },
+        "future": {
+          "tr": "Yarın odamı temizleyeceğim.",
+          "en": "I will clean my room tomorrow."
+        }
       }
     },
     {
@@ -709,6 +1797,24 @@
         "past": "Yıkadım",
         "want": "Yıkamak istiyorum",
         "future": "Yıkayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bulaşıkları yıkıyorum.",
+          "en": "I'm washing the dishes."
+        },
+        "past": {
+          "tr": "Arabayı dün yıkadım.",
+          "en": "I washed the car yesterday."
+        },
+        "want": {
+          "tr": "Saçımı yıkamak istiyorum.",
+          "en": "I want to wash my hair."
+        },
+        "future": {
+          "tr": "Çamaşırları akşam yıkayacağım.",
+          "en": "I'll do the laundry this evening."
+        }
       }
     },
     {
@@ -720,6 +1826,24 @@
         "past": "Duş aldım",
         "want": "Duş almak istiyorum",
         "future": "Duş alacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şu an duş alıyorum.",
+          "en": "I'm taking a shower right now."
+        },
+        "past": {
+          "tr": "Spordan sonra duş aldım.",
+          "en": "I had a shower after my workout."
+        },
+        "want": {
+          "tr": "Sıcak bir duş almak istiyorum.",
+          "en": "I want to take a hot shower."
+        },
+        "future": {
+          "tr": "Yatmadan önce duş alacağım.",
+          "en": "I'll have a shower before bed."
+        }
       }
     },
     {
@@ -731,6 +1855,24 @@
         "past": "Giydim",
         "want": "Giymek istiyorum",
         "future": "Giyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bugün mavi bir gömlek giyiyorum.",
+          "en": "I'm wearing a blue shirt today."
+        },
+        "past": {
+          "tr": "Düğünde takım elbise giydim.",
+          "en": "I wore a suit at the wedding."
+        },
+        "want": {
+          "tr": "Bu elbiseyi giymek istiyorum.",
+          "en": "I want to wear this dress."
+        },
+        "future": {
+          "tr": "Soğuksa mont giyeceğim.",
+          "en": "If it's cold, I'll wear a coat."
+        }
       }
     },
     {
@@ -742,6 +1884,24 @@
         "past": "Koydum",
         "want": "Koymak istiyorum",
         "future": "Koyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kitapları rafa koyuyorum.",
+          "en": "I'm putting the books on the shelf."
+        },
+        "past": {
+          "tr": "Anahtarları masaya koydum.",
+          "en": "I put the keys on the table."
+        },
+        "want": {
+          "tr": "Çayıma şeker koymak istiyorum.",
+          "en": "I want to put sugar in my tea."
+        },
+        "future": {
+          "tr": "Sütü buzdolabına koyacağım.",
+          "en": "I'll put the milk in the fridge."
+        }
       }
     },
     {
@@ -753,6 +1913,24 @@
         "past": "Çıkardım",
         "want": "Çıkarmak istiyorum",
         "future": "Çıkaracağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Evde ayakkabılarımı çıkarıyorum.",
+          "en": "I take my shoes off at home."
+        },
+        "past": {
+          "tr": "Ceketimi çıkardım, hava sıcaktı.",
+          "en": "I took my jacket off — it was hot."
+        },
+        "want": {
+          "tr": "Bu lekeyi çıkarmak istiyorum.",
+          "en": "I want to get this stain out."
+        },
+        "future": {
+          "tr": "Çöpü akşam dışarı çıkaracağım.",
+          "en": "I'll take the rubbish out this evening."
+        }
       }
     },
     {
@@ -764,6 +1942,24 @@
         "past": "Taşıdım",
         "want": "Taşımak istiyorum",
         "future": "Taşıyacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Ağır kutuları taşıyorum.",
+          "en": "I'm carrying heavy boxes."
+        },
+        "past": {
+          "tr": "Valizi merdivenlerden taşıdım.",
+          "en": "I carried the suitcase up the stairs."
+        },
+        "want": {
+          "tr": "Bu masayı salona taşımak istiyorum.",
+          "en": "I want to move this table to the living room."
+        },
+        "future": {
+          "tr": "Alışveriş poşetlerini ben taşıyacağım.",
+          "en": "I'll carry the shopping bags."
+        }
       }
     },
     {
@@ -775,6 +1971,24 @@
         "past": "Kestim",
         "want": "Kesmek istiyorum",
         "future": "Keseceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Salata için domates kesiyorum.",
+          "en": "I'm cutting tomatoes for the salad."
+        },
+        "past": {
+          "tr": "Pastayı sekiz parçaya kestim.",
+          "en": "I cut the cake into eight pieces."
+        },
+        "want": {
+          "tr": "Ekmeği ince ince kesmek istiyorum.",
+          "en": "I want to slice the bread thinly."
+        },
+        "future": {
+          "tr": "Çimleri hafta sonu keseceğim.",
+          "en": "I'll mow the lawn at the weekend."
+        }
       }
     },
     {
@@ -786,6 +2000,24 @@
         "past": "Başladım",
         "want": "Başlamak istiyorum",
         "future": "Başlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bugün yeni bir kursa başlıyorum.",
+          "en": "I'm starting a new course today."
+        },
+        "past": {
+          "tr": "Geçen ay spora başladım.",
+          "en": "I started working out last month."
+        },
+        "want": {
+          "tr": "Yeni bir hayata başlamak istiyorum.",
+          "en": "I want to start a new life."
+        },
+        "future": {
+          "tr": "Pazartesi işe başlayacağım.",
+          "en": "I will start work on Monday."
+        }
       }
     },
     {
@@ -797,6 +2029,24 @@
         "past": "Bitirdim",
         "want": "Bitirmek istiyorum",
         "future": "Bitireceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Raporu bitiriyorum, az kaldı.",
+          "en": "I'm finishing the report — almost done."
+        },
+        "past": {
+          "tr": "Kitabı dün gece bitirdim.",
+          "en": "I finished the book last night."
+        },
+        "want": {
+          "tr": "İşimi erken bitirmek istiyorum.",
+          "en": "I want to finish work early."
+        },
+        "future": {
+          "tr": "Projeyi cuma günü bitireceğim.",
+          "en": "I will finish the project on Friday."
+        }
       }
     },
     {
@@ -806,8 +2056,26 @@
       "forms": {
         "present": "Bitiyor",
         "past": "Bitti",
-        "want": "Bitmek istiyor",
+        "want": "Bitmesini istiyorum",
         "future": "Bitecek"
+      },
+      "examples": {
+        "present": {
+          "tr": "Film birazdan bitiyor.",
+          "en": "The film is ending soon."
+        },
+        "past": {
+          "tr": "Süt bitti, markete gitmem lazım.",
+          "en": "The milk has run out, I need to go to the shop."
+        },
+        "want": {
+          "tr": "Bu toplantının bir an önce bitmesini istiyorum.",
+          "en": "I want this meeting to end as soon as possible."
+        },
+        "future": {
+          "tr": "Ders saat beşte bitecek.",
+          "en": "The lesson will end at five."
+        }
       }
     },
     {
@@ -819,6 +2087,24 @@
         "past": "Durdum",
         "want": "Durmak istiyorum",
         "future": "Duracağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kırmızı ışıkta duruyorum.",
+          "en": "I stop at the red light."
+        },
+        "past": {
+          "tr": "Yolda bir kafede durdum.",
+          "en": "I stopped at a café on the way."
+        },
+        "want": {
+          "tr": "Burada biraz durmak istiyorum.",
+          "en": "I want to stop here for a while."
+        },
+        "future": {
+          "tr": "Bir sonraki benzinlikte duracağım.",
+          "en": "I'll stop at the next petrol station."
+        }
       }
     },
     {
@@ -830,6 +2116,24 @@
         "past": "Devam ettim",
         "want": "Devam etmek istiyorum",
         "future": "Devam edeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Türkçe derslerine devam ediyorum.",
+          "en": "I'm continuing with my Turkish lessons."
+        },
+        "past": {
+          "tr": "Yağmura rağmen yürümeye devam ettim.",
+          "en": "I kept walking despite the rain."
+        },
+        "want": {
+          "tr": "Bu işe devam etmek istiyorum.",
+          "en": "I want to keep doing this job."
+        },
+        "future": {
+          "tr": "Yarın kaldığım yerden devam edeceğim.",
+          "en": "Tomorrow I'll carry on from where I left off."
+        }
       }
     },
     {
@@ -841,6 +2145,24 @@
         "past": "Denedim",
         "want": "Denemek istiyorum",
         "future": "Deneyeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Yeni bir tarif deniyorum.",
+          "en": "I'm trying a new recipe."
+        },
+        "past": {
+          "tr": "Bu elbiseyi denedim ama küçük geldi.",
+          "en": "I tried this dress on, but it was too small."
+        },
+        "want": {
+          "tr": "Baklava denemek istiyorum.",
+          "en": "I want to try baklava."
+        },
+        "future": {
+          "tr": "Bir daha deneyeceğim.",
+          "en": "I'll try again."
+        }
       }
     },
     {
@@ -852,6 +2174,24 @@
         "past": "Seçtim",
         "want": "Seçmek istiyorum",
         "future": "Seçeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Menüden tatlı seçiyorum.",
+          "en": "I'm choosing a dessert from the menu."
+        },
+        "past": {
+          "tr": "Mavi rengi seçtim.",
+          "en": "I chose blue."
+        },
+        "want": {
+          "tr": "Kendi yolumu seçmek istiyorum.",
+          "en": "I want to choose my own path."
+        },
+        "future": {
+          "tr": "Hediyeni ben seçeceğim.",
+          "en": "I'll choose your present."
+        }
       }
     },
     {
@@ -863,6 +2203,24 @@
         "past": "Karar verdim",
         "want": "Karar vermek istiyorum",
         "future": "Karar vereceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Hep son dakikada karar veriyorum.",
+          "en": "I always decide at the last minute."
+        },
+        "past": {
+          "tr": "Taşınmaya karar verdim.",
+          "en": "I decided to move."
+        },
+        "want": {
+          "tr": "Acele etmeden karar vermek istiyorum.",
+          "en": "I want to decide without rushing."
+        },
+        "future": {
+          "tr": "Yarın karar vereceğim.",
+          "en": "I'll decide tomorrow."
+        }
       }
     },
     {
@@ -874,6 +2232,24 @@
         "past": "Planladım",
         "want": "Planlamak istiyorum",
         "future": "Planlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Yaz tatilimi planlıyorum.",
+          "en": "I'm planning my summer holiday."
+        },
+        "past": {
+          "tr": "Doğum günü partisini ben planladım.",
+          "en": "I planned the birthday party."
+        },
+        "want": {
+          "tr": "Haftamı önceden planlamak istiyorum.",
+          "en": "I want to plan my week in advance."
+        },
+        "future": {
+          "tr": "Geziyi bu hafta sonu planlayacağım.",
+          "en": "I'll plan the trip this weekend."
+        }
       }
     },
     {
@@ -885,6 +2261,24 @@
         "past": "Çalıştım",
         "want": "Çalışmak istiyorum",
         "future": "Çalışacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bir bankada çalışıyorum.",
+          "en": "I work at a bank."
+        },
+        "past": {
+          "tr": "Sınav için bütün gece çalıştım.",
+          "en": "I studied all night for the exam."
+        },
+        "want": {
+          "tr": "Yurt dışında çalışmak istiyorum.",
+          "en": "I want to work abroad."
+        },
+        "future": {
+          "tr": "Yarın evden çalışacağım.",
+          "en": "I'll work from home tomorrow."
+        }
       }
     },
     {
@@ -896,6 +2290,24 @@
         "past": "Yaşadım",
         "want": "Yaşamak istiyorum",
         "future": "Yaşayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "İzmir'de yaşıyorum.",
+          "en": "I live in Izmir."
+        },
+        "past": {
+          "tr": "Beş yıl Ankara'da yaşadım.",
+          "en": "I lived in Ankara for five years."
+        },
+        "want": {
+          "tr": "Deniz kenarında yaşamak istiyorum.",
+          "en": "I want to live by the sea."
+        },
+        "future": {
+          "tr": "Gelecek yıl yurt dışında yaşayacağım.",
+          "en": "I'll live abroad next year."
+        }
       }
     },
     {
@@ -907,6 +2319,24 @@
         "past": "Kaldım",
         "want": "Kalmak istiyorum",
         "future": "Kalacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu hafta bir otelde kalıyorum.",
+          "en": "I'm staying at a hotel this week."
+        },
+        "past": {
+          "tr": "Dün akşam evde kaldım.",
+          "en": "I stayed in last night."
+        },
+        "want": {
+          "tr": "Bir hafta daha kalmak istiyorum.",
+          "en": "I want to stay one more week."
+        },
+        "future": {
+          "tr": "Bayramda ailemin yanında kalacağım.",
+          "en": "I'll stay with my family over the holiday."
+        }
       }
     },
     {
@@ -918,6 +2348,24 @@
         "past": "Ayrıldım",
         "want": "Ayrılmak istiyorum",
         "future": "Ayrılacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Saat beşte ofisten ayrılıyorum.",
+          "en": "I'm leaving the office at five."
+        },
+        "past": {
+          "tr": "Geçen ay eski işimden ayrıldım.",
+          "en": "I left my old job last month."
+        },
+        "want": {
+          "tr": "Bu şehirden ayrılmak istiyorum.",
+          "en": "I want to leave this city."
+        },
+        "future": {
+          "tr": "Yarın sabah otelden ayrılacağım.",
+          "en": "I'll check out of the hotel tomorrow morning."
+        }
       }
     },
     {
@@ -929,6 +2377,24 @@
         "past": "Vardım",
         "want": "Varmak istiyorum",
         "future": "Varacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Birazdan istasyona varıyorum.",
+          "en": "I'm arriving at the station shortly."
+        },
+        "past": {
+          "tr": "Antalya'ya gece yarısı vardım.",
+          "en": "I arrived in Antalya at midnight."
+        },
+        "want": {
+          "tr": "Hava kararmadan eve varmak istiyorum.",
+          "en": "I want to get home before dark."
+        },
+        "future": {
+          "tr": "Saat yedide havalimanına varacağım.",
+          "en": "I'll arrive at the airport at seven."
+        }
       }
     },
     {
@@ -940,6 +2406,24 @@
         "past": "Geri döndüm",
         "want": "Geri dönmek istiyorum",
         "future": "Geri döneceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Tatilden geri dönüyorum.",
+          "en": "I'm coming back from holiday."
+        },
+        "past": {
+          "tr": "Dün akşam eve geri döndüm.",
+          "en": "I came back home last night."
+        },
+        "want": {
+          "tr": "Bir gün buraya geri dönmek istiyorum.",
+          "en": "One day I want to come back here."
+        },
+        "future": {
+          "tr": "Bir saat içinde geri döneceğim.",
+          "en": "I'll be back within an hour."
+        }
       }
     },
     {
@@ -951,6 +2435,24 @@
         "past": "Girdim",
         "want": "Girmek istiyorum",
         "future": "Gireceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şimdi binaya giriyorum.",
+          "en": "I'm going into the building now."
+        },
+        "past": {
+          "tr": "Odaya sessizce girdim.",
+          "en": "I entered the room quietly."
+        },
+        "want": {
+          "tr": "Bu yarışmaya girmek istiyorum.",
+          "en": "I want to enter this competition."
+        },
+        "future": {
+          "tr": "Gelecek ay sınava gireceğim.",
+          "en": "I'll sit the exam next month."
+        }
       }
     },
     {
@@ -962,6 +2464,24 @@
         "past": "Çıktım",
         "want": "Çıkmak istiyorum",
         "future": "Çıkacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Şimdi evden çıkıyorum.",
+          "en": "I'm leaving the house now."
+        },
+        "past": {
+          "tr": "Dün akşam arkadaşlarla dışarı çıktım.",
+          "en": "I went out with friends last night."
+        },
+        "want": {
+          "tr": "Biraz dışarı çıkmak istiyorum.",
+          "en": "I want to go out for a bit."
+        },
+        "future": {
+          "tr": "Saat sekizde yola çıkacağım.",
+          "en": "I'll set off at eight."
+        }
       }
     },
     {
@@ -973,6 +2493,24 @@
         "past": "Gönderdim",
         "want": "Göndermek istiyorum",
         "future": "Göndereceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Sana bir fotoğraf gönderiyorum.",
+          "en": "I'm sending you a photo."
+        },
+        "past": {
+          "tr": "Paketi dün kargoyla gönderdim.",
+          "en": "I sent the parcel by courier yesterday."
+        },
+        "want": {
+          "tr": "Anneme çiçek göndermek istiyorum.",
+          "en": "I want to send my mother flowers."
+        },
+        "future": {
+          "tr": "Belgeleri e-postayla göndereceğim.",
+          "en": "I'll send the documents by email."
+        }
       }
     },
     {
@@ -984,6 +2522,24 @@
         "past": "Aldım",
         "want": "Almak istiyorum",
         "future": "Alacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Her ay maaş alıyorum.",
+          "en": "I get a salary every month."
+        },
+        "past": {
+          "tr": "Bugün güzel bir haber aldım.",
+          "en": "I got some good news today."
+        },
+        "want": {
+          "tr": "Ehliyet almak istiyorum.",
+          "en": "I want to get a driving licence."
+        },
+        "future": {
+          "tr": "Sonuçları gelecek hafta alacağım.",
+          "en": "I'll get the results next week."
+        }
       }
     },
     {
@@ -995,6 +2551,24 @@
         "past": "Açıkladım",
         "want": "Açıklamak istiyorum",
         "future": "Açıklayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kuralları yeni öğrencilere açıklıyorum.",
+          "en": "I'm explaining the rules to the new students."
+        },
+        "past": {
+          "tr": "Durumu patronuma açıkladım.",
+          "en": "I explained the situation to my boss."
+        },
+        "want": {
+          "tr": "Kararımı açıklamak istiyorum.",
+          "en": "I want to explain my decision."
+        },
+        "future": {
+          "tr": "Her şeyi toplantıda açıklayacağım.",
+          "en": "I'll explain everything in the meeting."
+        }
       }
     },
     {
@@ -1006,6 +2580,24 @@
         "past": "Gösterdim",
         "want": "Göstermek istiyorum",
         "future": "Göstereceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Turistlere yolu gösteriyorum.",
+          "en": "I'm showing the tourists the way."
+        },
+        "past": {
+          "tr": "Fotoğrafları aileme gösterdim.",
+          "en": "I showed the photos to my family."
+        },
+        "want": {
+          "tr": "Sana yeni evimi göstermek istiyorum.",
+          "en": "I want to show you my new home."
+        },
+        "future": {
+          "tr": "Yarın sana şehri göstereceğim.",
+          "en": "I'll show you the city tomorrow."
+        }
       }
     },
     {
@@ -1017,6 +2609,24 @@
         "past": "Hatırladım",
         "want": "Hatırlamak istiyorum",
         "future": "Hatırlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Çocukluğumu çok iyi hatırlıyorum.",
+          "en": "I remember my childhood very well."
+        },
+        "past": {
+          "tr": "Şifreyi sonunda hatırladım.",
+          "en": "I finally remembered the password."
+        },
+        "want": {
+          "tr": "Her şeyi hatırlamak istiyorum.",
+          "en": "I want to remember everything."
+        },
+        "future": {
+          "tr": "Bu günü hep hatırlayacağım.",
+          "en": "I'll always remember this day."
+        }
       }
     },
     {
@@ -1028,6 +2638,24 @@
         "past": "Unuttum",
         "want": "Unutmak istiyorum",
         "future": "Unutacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Kelimeleri çabuk unutuyorum.",
+          "en": "I forget words quickly."
+        },
+        "past": {
+          "tr": "Şemsiyemi otobüste unuttum.",
+          "en": "I left my umbrella on the bus."
+        },
+        "want": {
+          "tr": "Bu kötü günü unutmak istiyorum.",
+          "en": "I want to forget this bad day."
+        },
+        "future": {
+          "tr": "Bunu yarın unutacağım, not alayım.",
+          "en": "I'll forget this by tomorrow — let me write it down."
+        }
       }
     },
     {
@@ -1039,6 +2667,24 @@
         "past": "İnandım",
         "want": "İnanmak istiyorum",
         "future": "İnanacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Sana inanıyorum.",
+          "en": "I believe you."
+        },
+        "past": {
+          "tr": "İlk başta habere inandım.",
+          "en": "At first I believed the news."
+        },
+        "want": {
+          "tr": "Bu hikâyeye inanmak istiyorum.",
+          "en": "I want to believe this story."
+        },
+        "future": {
+          "tr": "Kanıt görürsem inanacağım.",
+          "en": "If I see proof, I'll believe it."
+        }
       }
     },
     {
@@ -1050,6 +2696,24 @@
         "past": "Hissettim",
         "want": "Hissetmek istiyorum",
         "future": "Hissedeceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bugün kendimi çok iyi hissediyorum.",
+          "en": "I feel really good today."
+        },
+        "past": {
+          "tr": "Kendimi biraz yalnız hissettim.",
+          "en": "I felt a bit lonely."
+        },
+        "want": {
+          "tr": "Kendimi özgür hissetmek istiyorum.",
+          "en": "I want to feel free."
+        },
+        "future": {
+          "tr": "Tatilde kendimi rahat hissedeceğim.",
+          "en": "I'll feel relaxed on holiday."
+        }
       }
     },
     {
@@ -1061,6 +2725,24 @@
         "past": "Ağrıdı",
         "want": "Ağrımasını istiyorum",
         "future": "Ağrıyacak"
+      },
+      "examples": {
+        "present": {
+          "tr": "Başım ağrıyor.",
+          "en": "I have a headache."
+        },
+        "past": {
+          "tr": "Dün bütün gün dişim ağrıdı.",
+          "en": "My tooth ached all day yesterday."
+        },
+        "want": {
+          "tr": "Antrenmandan sonra kaslarımın biraz ağrımasını istiyorum.",
+          "en": "After training I want my muscles to ache a little."
+        },
+        "future": {
+          "tr": "Bu ayakkabılarla ayaklarım ağrıyacak.",
+          "en": "My feet will hurt in these shoes."
+        }
       }
     },
     {
@@ -1072,6 +2754,24 @@
         "past": "Yağmur yağdı",
         "want": "Yağmur yağmasını istiyorum",
         "future": "Yağmur yağacak"
+      },
+      "examples": {
+        "present": {
+          "tr": "Dışarıda yağmur yağıyor.",
+          "en": "It's raining outside."
+        },
+        "past": {
+          "tr": "Dün akşam çok yağmur yağdı.",
+          "en": "It rained a lot last night."
+        },
+        "want": {
+          "tr": "Bahçe için yağmur yağmasını istiyorum.",
+          "en": "I want it to rain for the garden."
+        },
+        "future": {
+          "tr": "Hava durumuna göre yarın yağmur yağacak.",
+          "en": "According to the forecast, it will rain tomorrow."
+        }
       }
     },
     {
@@ -1083,6 +2783,24 @@
         "past": "Güldüm",
         "want": "Gülmek istiyorum",
         "future": "Güleceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu videoya çok gülüyorum.",
+          "en": "This video makes me laugh so much."
+        },
+        "past": {
+          "tr": "Şakana çok güldüm.",
+          "en": "I laughed a lot at your joke."
+        },
+        "want": {
+          "tr": "Bu akşam biraz gülmek istiyorum, komedi izleyelim.",
+          "en": "I want to laugh a bit tonight — let's watch a comedy."
+        },
+        "future": {
+          "tr": "Bu fotoğrafa yıllarca güleceğim.",
+          "en": "I'll be laughing at this photo for years."
+        }
       }
     },
     {
@@ -1094,6 +2812,24 @@
         "past": "Ağladım",
         "want": "Ağlamak istiyorum",
         "future": "Ağlayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu filmde hep ağlıyorum.",
+          "en": "I always cry at this film."
+        },
+        "past": {
+          "tr": "Düğünde mutluluktan ağladım.",
+          "en": "I cried with happiness at the wedding."
+        },
+        "want": {
+          "tr": "Bazen sadece ağlamak istiyorum.",
+          "en": "Sometimes I just want to cry."
+        },
+        "future": {
+          "tr": "Vedalaşırken kesin ağlayacağım.",
+          "en": "I'll definitely cry when we say goodbye."
+        }
       }
     },
     {
@@ -1105,6 +2841,24 @@
         "past": "Oynadım",
         "want": "Oynamak istiyorum",
         "future": "Oynayacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Çocuklarla parkta oynuyorum.",
+          "en": "I'm playing with the kids in the park."
+        },
+        "past": {
+          "tr": "Dün arkadaşlarla futbol oynadım.",
+          "en": "I played football with friends yesterday."
+        },
+        "want": {
+          "tr": "Tavla oynamak istiyorum.",
+          "en": "I want to play backgammon."
+        },
+        "future": {
+          "tr": "Akşam bilgisayar oyunu oynayacağım.",
+          "en": "I'll play a video game this evening."
+        }
       }
     },
     {
@@ -1116,6 +2870,24 @@
         "past": "Eğlendim",
         "want": "Eğlenmek istiyorum",
         "future": "Eğleneceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Bu partide çok eğleniyorum.",
+          "en": "I'm having a lot of fun at this party."
+        },
+        "past": {
+          "tr": "Konserde çok eğlendim.",
+          "en": "I had a great time at the concert."
+        },
+        "want": {
+          "tr": "Bu hafta sonu biraz eğlenmek istiyorum.",
+          "en": "I want to have some fun this weekend."
+        },
+        "future": {
+          "tr": "Tatilde çok eğleneceğim.",
+          "en": "I'll have lots of fun on holiday."
+        }
       }
     },
     {
@@ -1127,6 +2899,24 @@
         "past": "Değiştirdim",
         "want": "Değiştirmek istiyorum",
         "future": "Değiştireceğim"
+      },
+      "examples": {
+        "present": {
+          "tr": "Odanın düzenini değiştiriyorum.",
+          "en": "I'm rearranging the room."
+        },
+        "past": {
+          "tr": "Telefon numaramı değiştirdim.",
+          "en": "I changed my phone number."
+        },
+        "want": {
+          "tr": "Saçımın rengini değiştirmek istiyorum.",
+          "en": "I want to change my hair colour."
+        },
+        "future": {
+          "tr": "Yarın şifremi değiştireceğim.",
+          "en": "I'll change my password tomorrow."
+        }
       }
     },
     {
@@ -1138,6 +2928,24 @@
         "past": "Yardımcı oldum",
         "want": "Yardımcı olmak istiyorum",
         "future": "Yardımcı olacağım"
+      },
+      "examples": {
+        "present": {
+          "tr": "Yeni çalışanlara yardımcı oluyorum.",
+          "en": "I help the new staff."
+        },
+        "past": {
+          "tr": "Bir turiste yol tarifinde yardımcı oldum.",
+          "en": "I helped a tourist with directions."
+        },
+        "want": {
+          "tr": "Size yardımcı olmak istiyorum.",
+          "en": "I'd like to help you."
+        },
+        "future": {
+          "tr": "Elimden geldiğince yardımcı olacağım.",
+          "en": "I'll help as much as I can."
+        }
       }
     }
   ]

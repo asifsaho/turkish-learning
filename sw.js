@@ -1,8 +1,10 @@
 // Bump CACHE when shell files change so clients pick up the new version.
-const CACHE = "turkish-verbs-v1";
+const CACHE = "turkish-verbs-v2";
 const SHELL = [
   "./",
   "index.html",
+  "learn.html",
+  "styles.css",
   "verbs.json",
   "manifest.webmanifest",
   "icons/icon.svg",
@@ -29,7 +31,7 @@ self.addEventListener("fetch", e => {
   if (req.method !== "GET" || new URL(req.url).origin !== location.origin) return;
   const url = new URL(req.url);
   // Network-first for the page and data so edits to verbs.json show up; cache as offline fallback.
-  const networkFirst = req.mode === "navigate" || url.pathname.endsWith("/verbs.json");
+  const networkFirst = req.mode === "navigate" || /\/(verbs\.json|styles\.css)$/.test(url.pathname);
   if (networkFirst) {
     e.respondWith(
       fetch(req)
@@ -38,7 +40,7 @@ self.addEventListener("fetch", e => {
           caches.open(CACHE).then(c => c.put(req, copy));
           return res;
         })
-        .catch(() => caches.match(req).then(r => r || caches.match("index.html")))
+        .catch(() => caches.match(req, { ignoreSearch: true }).then(r => r || caches.match("index.html")))
     );
   } else {
     e.respondWith(caches.match(req).then(r => r || fetch(req)));

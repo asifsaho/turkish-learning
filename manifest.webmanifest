@@ -1,7 +1,7 @@
 {
   "name": "Turkish Verb Flashcards",
   "short_name": "Turkish Verbs",
-  "description": "Flip through 100 everyday Turkish verbs with their present, past, future and \"I want to…\" forms.",
+  "description": "Flip through 100 everyday Turkish verbs with their present, past, future and \"I want to…\" forms, each with an example sentence.",
   "id": "./",
   "start_url": "./",
   "scope": "./",
